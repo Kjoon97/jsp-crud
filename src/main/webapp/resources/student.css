@@ -1,0 +1,58 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+header{
+	margin:20px 10px 40px 10px;
+	font-size:45px;
+	text-shadow:3px 3px 8px #ffff00;
+	font-family: 'Nanum Pen Script', cursive;
+	text-align:center;
+	color: black;
+}
+body{
+	color: black;
+	font-family: '맑은 고딕', '돋움', '고딕';
+}
+div{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#sect{
+	background-color: #FAE1AF;
+	text-align: center;
+	margin:20px;
+	padding: 20px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+ul{
+	list-style: none;
+	text-align: center;
+	background-color: #FAE1AF;
+	margin-left:100px; margin-right: 100px;
+	padding-top: 20px; padding-bottom: 20px;
+}
+a{
+	text-decoration: underline;
+	color: #0000a0;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+tr td {
+	font-size: 10pt;
+	border: 1px solid #FDF5DC;
+	height: 30px;
+	padding: 5px;
+	color: #000000;
+	background-color: #FDF5DC;
+}
+#input1 {
+	background-color: #ff0000;
+	color: white;
+}
+#input2 {
+	background-color: #0080ff;
+	color: white;
+}
